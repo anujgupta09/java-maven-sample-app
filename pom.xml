@@ -10,8 +10,8 @@
   </parent>
   <groupId>com.example</groupId>
   <artifactId>rest-service-complete</artifactId>
-  <!-- Modified for this assignment: application release version is 1.0.0. -->
-  <version>1.0.3</version>
+  <!-- Modified for this assignment: application release version is 1.0.5. -->
+  <version>1.0.5</version>
   <name>rest-service-complete</name>
   <description>Demo project for Spring Boot</description>
   <properties>
