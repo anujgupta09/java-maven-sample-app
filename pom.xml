@@ -11,7 +11,7 @@
   <groupId>com.example</groupId>
   <artifactId>rest-service-complete</artifactId>
   <!-- Modified for this assignment: application release version is 8.1.4. -->
-  <version>9.0.0</version>
+  <version>9.0.3</version>
   <name>rest-service-complete</name>
   <description>Demo project for Spring Boot</description>
   <properties>
